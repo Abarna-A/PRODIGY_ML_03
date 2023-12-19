@@ -11,4 +11,4 @@ Support Vector Machine (SVM) is employed for image classification. SVM is a supe
 
 # Usage
 Clone this repository to  your local machine:
-https://github.com/Abarna-A/PRODIGY_ML_03.git
+git clone https://github.com/Abarna-A/PRODIGY_ML_03.git
